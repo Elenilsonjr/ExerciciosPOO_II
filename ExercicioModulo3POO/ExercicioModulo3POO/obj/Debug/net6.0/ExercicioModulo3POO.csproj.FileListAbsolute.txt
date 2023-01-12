@@ -1,0 +1,15 @@
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\bin\Debug\net6.0\ExercicioModulo3POO.exe
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\bin\Debug\net6.0\ExercicioModulo3POO.deps.json
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\bin\Debug\net6.0\ExercicioModulo3POO.runtimeconfig.json
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\bin\Debug\net6.0\ExercicioModulo3POO.dll
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\bin\Debug\net6.0\ExercicioModulo3POO.pdb
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.csproj.AssemblyReference.cache
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.AssemblyInfoInputs.cache
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.AssemblyInfo.cs
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.csproj.CoreCompileInputs.cache
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.dll
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\refint\ExercicioModulo3POO.dll
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.pdb
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ExercicioModulo3POO.genruntimeconfig.cache
+C:\curso\ExercicioModulo3POO\ExercicioModulo3POO\obj\Debug\net6.0\ref\ExercicioModulo3POO.dll
