@@ -1,0 +1,15 @@
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\bin\Debug\net6.0\ExercicioClasseAbstrata.exe
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\bin\Debug\net6.0\ExercicioClasseAbstrata.deps.json
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\bin\Debug\net6.0\ExercicioClasseAbstrata.runtimeconfig.json
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\bin\Debug\net6.0\ExercicioClasseAbstrata.dll
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\bin\Debug\net6.0\ExercicioClasseAbstrata.pdb
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.csproj.AssemblyReference.cache
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.AssemblyInfoInputs.cache
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.AssemblyInfo.cs
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.dll
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\refint\ExercicioClasseAbstrata.dll
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.pdb
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ExercicioClasseAbstrata.genruntimeconfig.cache
+C:\curso\ExercicioClasseAbstrata\ExercicioClasseAbstrata\obj\Debug\net6.0\ref\ExercicioClasseAbstrata.dll
