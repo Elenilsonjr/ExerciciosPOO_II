@@ -1,0 +1,15 @@
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.csproj.AssemblyReference.cache
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.AssemblyInfoInputs.cache
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.AssemblyInfo.cs
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.csproj.CoreCompileInputs.cache
+C:\curso\exerciciosWeek2\exerciciosWeek2\bin\Debug\net6.0\exerciciosWeek2.exe
+C:\curso\exerciciosWeek2\exerciciosWeek2\bin\Debug\net6.0\exerciciosWeek2.deps.json
+C:\curso\exerciciosWeek2\exerciciosWeek2\bin\Debug\net6.0\exerciciosWeek2.runtimeconfig.json
+C:\curso\exerciciosWeek2\exerciciosWeek2\bin\Debug\net6.0\exerciciosWeek2.dll
+C:\curso\exerciciosWeek2\exerciciosWeek2\bin\Debug\net6.0\exerciciosWeek2.pdb
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.dll
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\refint\exerciciosWeek2.dll
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.pdb
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\exerciciosWeek2.genruntimeconfig.cache
+C:\curso\exerciciosWeek2\exerciciosWeek2\obj\Debug\net6.0\ref\exerciciosWeek2.dll
